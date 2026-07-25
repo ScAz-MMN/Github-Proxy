@@ -1,6 +1,6 @@
 
 # 🚀 GitHub Accelerator Pro
-
+交流QQ群1083372269
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-green.svg)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/UI-PyQt5-orange.svg)](https://www.riverbankcomputing.com/technical-support/pyqt5)
